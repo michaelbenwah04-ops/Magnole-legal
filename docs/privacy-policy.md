@@ -1,0 +1,90 @@
+# Privacy Policy for Magnole
+
+**Effective Date:** June 30, 2026
+
+New Creation Labs LLC ("Company", "we", "us", or "our") operates the Magnole software-as-a-service application, platform, and associated API integrations (collectively, the "Service"). This Privacy Policy governs our data collection, processing, and storage practices in connection with your use of the Service.
+
+By accessing, registering for, or utilizing Magnole, you explicitly acknowledge and consent to the collection, tracking, disclosure, and handling of information as detailed herein. If you do not agree to these terms, you must immediately cease all access to the Service.
+
+---
+
+## 1. THE CATEGORIES OF DATA WE COLLECT
+
+In order to function as an automated middleware transaction coordinator, Magnole processes several distinct categories of information:
+
+### A. Account and Authentication Information
+
+When you register an account, we collect your primary identifiers. Because Magnole utilizes secure third-party authentication infrastructure, we integrate with Google OAuth. Through this integration, we collect and store:
+
+- First and last name
+- Primary professional email address
+- Profile photograph URL
+- Secure OAuth access tokens, refresh tokens, and unique provider identifiers.
+
+### B. Real Estate Transaction Data ("Transaction Content")
+
+As a core functional requirement of the platform, users upload, sync, or transmit documents and data regarding active real estate listings and escrows. This data includes, but is not limited to:
+
+- **Contractual Documents:** Executed purchase agreements, disclosures, addenda, counteroffers, escrow instructions, title reports, and inspection reports.
+- **Property Profiles:** Physical addresses, parcel numbers, zoning descriptions, and property characteristics.
+- **Financial Data:** Purchase prices, earnest money deposit (EMD) amounts, down payment tracking, loan numbers, and commission structures.
+- **Key Calendar Timelines:** Feasibility deadlines, appraisal contingency dates, financing windows, inspection periods, and scheduled closing dates.
+
+### C. Multi-Party Contact and Communication Data
+
+Magnole functions as a coordination hub. To facilitate automated or user-triggered outbound communications, we collect:
+
+- Identity and contact parameters of third parties involved in the transaction (e.g., buyers, sellers, cooperating agents, escrow officers, title representatives, and mortgage lenders), including names, telephone numbers, and email addresses.
+- Full contents, timestamps, and delivery logs of automated or manual SMS messages and emails dispatched through the platform.
+
+### D. System Metadata and Automated Analytics
+
+When interacting with our cloud application interface, our servers and backend infrastructure (including Supabase) automatically log standard technical data, including:
+
+- Internet Protocol (IP) addresses, browser user-agent strings, device hardware models, and operating system variants.
+- Clickstream logs, feature utilization metrics, session durations, latency metrics, and interface state changes.
+
+## 2. HOW WE PROCESS AND UTILIZE YOUR INFORMATION
+
+We process your data strictly under the legal bases of contractual necessity, legitimate business operations, and regulatory compliance. Specifically, your data is used to:
+
+- Provision, authenticate, maintain, and secure your user account.
+- Execute core artificial intelligence algorithms, language model parsing, and data-extraction workflows to map transaction timelines and sort documents.
+- Distribute transactional alerts, deadline reminders, and status updates via SMS and email to authorized transaction participants.
+- Detect, investigate, and prevent malicious activities, unauthorized system access, security breaches, or violations of our Terms of Use.
+- Optimize system performance, refine database query efficiency, and debug frontend interface errors.
+
+### CRITICAL DATA PRESERVATION AND ARTIFICIAL INTELLIGENCE MANDATE
+
+**New Creation Labs LLC guarantees that it does not sell, rent, lease, or trade your proprietary Transaction Content to third-party data brokers.** Furthermore, we do not utilize sensitive, non-public consumer real estate transaction data uploaded to Magnole to train public, foundational, or multi-tenant large language models (LLMs). All artificial intelligence operations are conducted via isolated API architecture endpoints where data retention by downstream infrastructure sub-processors is strictly barred or temporally restricted.
+
+## 3. THIRD-PARTY DATA DISCLOSURE AND SUB-PROCESSORS
+
+We only share information with third-party service providers ("Sub-processors") who are contractually bound by confidentiality and data protection obligations at least as stringent as those contained in this policy. Our primary operational sub-processors include:
+
+| Sub-processor Name | Purpose of Processing | Data Transferred |
+|---|---|---|
+| Supabase, Inc. | Cloud Database, Backend Infrastructure, and User Session Storage | All database records, user profiles, transaction metadata, and app states. |
+| Google LLC | User Authentication & Calendar/Email Integration API | OAuth validation tokens, user email addresses, profile pictures. |
+| Communications Providers | Outbound Multi-Channel Notification Dispatch | Recipient telephone numbers, recipient emails, text and body copy of alerts. |
+
+We reserve the right to disclose your information if required to do so by operation of law, court order, or governmental subpoena, or if we believe in good faith that such disclosure is necessary to protect the safety, property, or legal rights of New Creation Labs LLC, our users, or the public.
+
+## 4. STATE AND GLOBAL CONSUMER PRIVACY RIGHTS
+
+Magnole operates in accordance with comprehensive United States state-level data privacy frameworks (including CCPA/CPRA, CPA, CTDPA, VCDPA, UCPA, and subsequent statutes). Users and data subjects retain the following explicit legal rights:
+
+- **The Right to Know and Access:** You have the right to request a comprehensive manifest of the specific pieces of personal information we have collected, stored, and processed about you.
+- **The Right to Erasure and Deletion:** You may request that we purge all personal data collected from our live production databases and synchronized sub-processor systems. Please note that deleting account data may result in the immediate, permanent termination of your access to the Service.
+- **The Right to Correct Inaccuracies:** You may update, correct, or amend any inaccurate or outdated personal profile information directly through the user settings interface or by contacting support.
+- **Universal Privacy Signal Recognition:** Our applications are architected to automatically monitor, recognize, and respect browser-enforced Global Privacy Control (GPC) signals. If a user utilizes a GPC-enabled browser, our platform interprets this as a definitive command to opt-out of any ancillary tracking or processing.
+
+To execute any of these rights, you or your legally authorized representative must submit a verifiable consumer request to our administrative inbox at: legal@magnole.com
+
+## 5. DATA SECURITY AND RETENTION METRICS
+
+We utilize enterprise-grade technical and organizational protocols to shield your information from unauthorized access, alteration, destruction, or disclosure. All data packets in transit are secured utilizing Transport Layer Security (TLS 1.3), and all underlying tables, blobs, and objects within our Supabase databases are encrypted at rest using Advanced Encryption Standard (AES-256).
+
+---
+
+[Back to Home](index.md) | [View Terms of Use](terms-of-use.md)
