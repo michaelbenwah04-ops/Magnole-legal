@@ -1,0 +1,103 @@
+# Terms of Use Agreement for Magnole
+
+**Last Updated:** June 30, 2026
+
+This Terms of Use Agreement ("Agreement") constitutes a legally binding contract executed between you, whether individually or on behalf of a licensed business entity ("User", "you", "your"), and New Creation Labs LLC ("Company", "we", "us", or "our"), governing your absolute access to and use of the Magnole software application, website, tools, and underlying automated workflows (collectively, the "Service").
+
+**PLEASE READ THIS AGREEMENT EXHAUSTIVELY.** BY CREATING AN ACCOUNT, ACCESSING THE SERVICE, OR TRIGGERING PLATFORM WORKFLOWS, YOU AGREE TO BE BOUND BY ALL SECTIONS CONTAINED HEREIN, INCLUDING THE ARBITRATION MANDATE AND THE LIMITATION OF LIABILITY CLAUSES. IF YOU DISAGREE WITH ANY PROVISION, YOU ARE EXPRESSLY PROHIBITED FROM USING THE SERVICE AND MUST DISCONNECT IMMEDIATELY.
+
+---
+
+## 1. ELIGIBILITY AND ACCOUNT MANAGEMENT
+
+### A. Professional Status Warranty
+
+Magnole is a specialized professional middleware tool. It is not intended for consumer or household use. By utilizing the Service, you represent and warrant that you are a licensed real estate broker, sales agent, certified transaction coordinator, escrow officer, or an authorized administrative assistant operating directly on behalf of a licensed professional entity.
+
+### B. Account Security Responsibility
+
+To access the platform, you must establish an authenticated session via Google OAuth. You are completely and exclusively liable for preserving the strict confidentiality of your access tokens, web sessions, and account profiles. You agree to immediately apprise New Creation Labs LLC of any unauthorized deployment of your credentials or any alternative vulnerability in system security.
+
+## 2. SUBSCRIPTION BILLING, FEES, AND RENEWALS
+
+### A. Subscription Tiers
+
+Access to the advanced automation features of Magnole is conditioned upon the prompt payment of recurring subscription fees categorized under our tiered pricing schedule (ranging from $99.00 to $399.00 per month, or subject to separate customized enterprise billing schedules).
+
+### B. Automatic Renewal and Authorization
+
+All subscriptions are billed on a recurring basis (monthly or annually) depending on your selection. You explicitly authorize New Creation Labs LLC to charge your stored credit card or merchant account automatically at the initialization of each recurring billing cycle.
+
+### C. Cancellation and Refund Constraints
+
+You may terminate your subscription at any time through your account management dashboard. To avoid being charged for the subsequent billing cycle, cancellation must occur at least twenty-four (24) hours prior to your scheduled renewal date. All payments are entirely non-refundable. We do not provide prorated refunds or credits for partial months of service or unused feature volumes.
+
+## 3. PROPRIETARY INTELLECTUAL PROPERTY RIGHTS
+
+### A. Ownership of the Service
+
+Except for explicit User Content, all structural components of Magnole—including but not limited to source code, compiled binaries, relational database schemas, front-end user interfaces, premium micro-interactions, layout constraints, typographic designs, CSS variations, iconography, custom logos, and algorithmic logic—are the exclusive intellectual property of New Creation Labs LLC. They are protected by United States copyright, trademark, trade secret, and unfair competition statutes.
+
+### B. Limited License Grant
+
+Conditioned upon your absolute compliance with this Agreement, we grant you a limited, non-exclusive, non-transferable, non-sublicensable, revocable license to access and interact with the Service via standard web browsers or authorized application interfaces solely for your internal real estate business operations. You may not:
+
+- Decompile, reverse engineer, or disassemble any aspect of the codebase.
+- Scrap, harvest, crawl, or extract system data utilizing automated bots or scripts.
+- Rent, lease, resell, distribute, or white-label the software interface.
+
+### C. User Content License
+
+You retain all ownership, copyright, and title to the raw purchase contracts, text logs, dates, and client information you input into the platform ("User Content"). You hereby grant New Creation Labs LLC a worldwide, royalty-free, non-exclusive license to host, process, reproduce, parse, extract, and transmit your User Content solely as required to fulfill the operational requests, AI text analysis, and communication dispatches triggered by your use of the platform.
+
+## 4. TELECOMMUNICATIONS COMPLIANCE AND OUTBOUND DISPATCH (SMS & EMAIL)
+
+Magnole allows users to execute automated workflow communications (such as timeline alerts, critical deadline reminders, and multi-party document status alerts) via Short Message Service (SMS) and electronic mail.
+
+- **The Opt-In Mandate:** You explicitly represent and warrant that before inputting any client, consumer, or third-party phone number or email address into Magnole, you have obtained clear, explicit, prior express written consent from that individual to receive automated text messages and emails.
+- **Indemnification for Unsolicited Spam:** You agree to fully comply with the Telephone Consumer Protection Act (TCPA), the CAN-SPAM Act, and all cellular network carrier operational guidelines (such as 10DLC compliance). New Creation Labs LLC operates as a passive technology conduit. You assume 100% of all legal and financial responsibility for any regulatory fines, statutory damages, or class-action claims arising from unauthorized or unsolicited messages sent through your Magnole account profile.
+
+## 5. EXPLICIT DISCLAIMER OF PROFESSIONAL LIABILITY AND AI ACCURACY
+
+**YOU ACKNOWLEDGE AND AGREE THAT MAGNOLE IS AN AUTOMATED ADMINISTRATIVE COORDINATION ASSISTANT PLATFORM DRIVEN IN PART BY ARTIFICIAL INTELLIGENCE LOGIC. IT DOES NOT OPERATE AS A LICENSED ATTORNEY, ESCROW CORPORATION, TAX ADVISOR, OR FINANCIALLY REGULATED INSTITUTION.**
+
+- **No Professional Advice:** No output, generated timeline, email drafting, or compliance checklist provided by the Service shall be construed as legal, financial, architectural, or regulatory real estate advice.
+- **The Duty of Independent Verification:** Artificial intelligence systems are fundamentally prone to errors, hallucinated dates, misread provisions, and data omission. You maintain an absolute, non-delegable professional obligation to review, audit, verify, and confirm the accuracy of every single date, deadline, contract provision, and document parsed by the platform prior to acting upon it or transmitting it to a client.
+- **Disclaimer of Damages for Missed Deadlines:** New Creation Labs LLC disclaims any and all liability for missed escrow deposit windows, expired contingency dates, failed title transfers, real estate commission forfeitures, or regulatory malpractice claims resulting directly or indirectly from software inaccuracy, server downtime, or AI generation faults.
+
+## 6. ABSOLUTE LIMITATION OF LIABILITY
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE STATUTES, IN NO EVENT SHALL NEW CREATION LABS LLC, ITS FOUNDERS, DIRECTORS, EMPLOYEES, AFFILIATES, OR INFRASTRUCTURE AGENTS BE LIABLE TO YOU OR ANY THIRD PARTY FOR ANY INDIRECT, CONSEQUENTIAL, INCIDENTAL, SPECIAL, PUNITIVE, OR EXEMPLARY DAMAGES WHATSOEVER—INCLUDING BUT NOT LIMITED TO LOSS OF REVENUE, LOST PROFESSIONAL COMMISSIONS, LOSS OF BUSINESS OPPORTUNITIES, LOSS OF REPUTATIONAL GOODWILL, DATA CORRUPTION, OR SYSTEM DOWNTIME—EVEN IF WE HAVE BEEN PREVIOUSLY WARNED OF THE POTENTIAL FOR SUCH LOSSES.
+
+NOTWITHSTANDING ANYTHING CONTAINED HEREIN TO THE CONTRARY, THE TOTAL ACCUMULATED LIABILITY OF NEW CREATION LABS LLC TO YOU FOR ANY ACTIONS, CAUSES OF ACTION, OR CLAIMS ARISING OUT OF OR LINKED TO THIS AGREEMENT, WHETHER IN CONTRACT, TORT (INCLUDING ACTIVE OR PASSIVE NEGLIGENCE), STATUTORY BREACH, OR PRODUCT LIABILITY, SHALL BE STRICTLY CAPPED AND LIMITED TO THE TOTAL MONETARY SUM EXCLUSIVELY PAID BY YOU TO NEW CREATION LABS LLC FOR THE SPECIFIC SUBSCRIPTION SERVICE IN THE TWELVE (12) MONTHS IMMEDIATELY PRECEDING THE OCCURRENCE OF THE INCIDENT GIVING RISE TO LIABILITY.
+
+## 7. INDEMNIFICATION
+
+You agree to defend, indemnify, and hold entirely harmless New Creation Labs LLC, its parent LLCs, subsidiaries, officers, and software engineers from and against any and all claims, damages, liabilities, losses, regulatory penalties, court judgements, and legal fees (including reasonable attorneys' fees) originating from or linked to:
+
+1. Your misuse or unauthorized distribution of the Service.
+2. Your violation of any provision contained within this Terms of Use Agreement.
+3. Your failure to secure the required legal consents from a consumer prior to initiating automated multi-party SMS/Email communication streams.
+4. Any breach of your representations and warranties regarding your professional real estate licensing status.
+
+## 8. GOVERNING LAW, VENUE, AND MANDATORY ARBITRATION
+
+### A. Governing Law
+
+This Agreement and your structural relationship with the platform shall be governed by, and construed strictly in accordance with, the internal laws of the State of Delaware (or your primary state of LLC registration), without giving effect to any principles of conflicts of law.
+
+### B. Mandatory Binding Arbitration
+
+Any controversy, dispute, or legal claim arising out of or relating to this Agreement, its interpretation, or the breach thereof, shall be settled exclusively via binding, individual arbitration administered by the American Arbitration Association (AAA) in accordance with its Commercial Arbitration Rules.
+
+### C. Class Action Waiver
+
+**YOU AND NEW CREATION LABS LLC EXPLICITLY AGREE THAT ANY ARBITRATION OR LEGAL PROCEEDING SHALL BE CONDUCTED STRICTLY ON AN INDIVIDUAL BASIS.** YOU WAIVE THE RIGHT TO PARTICIPATE AS A PLAINTIFF, REPRESENTATIVE, OR MEMBER IN ANY CLASS-ACTION LAWSUIT, CLASS-WIDE ARBITRATION, OR PRIVATE ATTORNEY GENERAL LITIGATION.
+
+## 9. SEVERABILITY AND INTEGRATION
+
+This Agreement, along with our Privacy Policy, constitutes the entire legal understanding between you and New Creation Labs LLC concerning the Service. If any provision of this Agreement is found to be invalid or unenforceable by an arbitrator or court of competent jurisdiction, that specific provision shall be limited or severed to the minimum extent necessary, and the remaining provisions shall continue in absolute full force and effect.
+
+---
+
+[Back to Home](index.md) | [View Privacy Policy](privacy-policy.md)
